@@ -1,0 +1,46 @@
+.add-contact-card {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #72caaf;
+  justify-content: center;
+  padding: 2rem;
+  border-radius: 6px;
+  min-height: 380px;
+  position: absolute;
+  top: 200px;
+  width: 280px;
+  right: 60px;
+
+  background-color: white;
+  z-index: 1000;
+}
+
+.success-card {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  padding: 2rem;
+
+  background-color: #72caaf;
+  min-height: 380px;
+}
+
+.gender-select {
+  display: flex;
+  color: #828282;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.gender {
+  margin-left: 8px;
+  color: black;
+  font-size: 11px;
+}
+
+.svg-cont {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+.search-box {
+  display: flex;
+  width: 70%;
+  justify-content: flex-end;
+}
+
+.search-bar {
+  border-radius: 4px;
+  border: 2px solid #8d6c9f;
+  margin-right: 8px;
+  font-style: italic;
+  min-width: 50%;
+  padding: 16px;
+}
+
+.dropdown {
+  border-radius: 4px;
+  border: 2px solid #8d6c9f;
+  background-color: #c2cde7;
+  color: #8d6c9f;
+  font-weight: 700;
+  cursor: pointer;
+}

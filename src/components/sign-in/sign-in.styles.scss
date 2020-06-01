@@ -1,0 +1,24 @@
+.sign-in {
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  color: #8d6c9f;
+  padding: 5rem 3rem;
+  border: 2px solid #72ca;
+  border-radius: 8px;
+  margin: 3rem;
+  margin-left: 0;
+  background-color: #fff9f0;
+
+  .title {
+    margin: 10px 0;
+  }
+
+  .button-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin-top: 4rem;
+  }
+}

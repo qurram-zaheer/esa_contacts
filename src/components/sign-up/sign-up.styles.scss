@@ -1,0 +1,14 @@
+.sign-up {
+  min-width: 350px;
+  display: flex;
+  color: #8d6c9f;
+  flex-direction: column;
+  padding: 5rem 3rem;
+  border: 2px solid #72ca;
+  border-radius: 8px;
+  margin: 3rem;
+  background-color: #fff9f0;
+  .title {
+    margin: 10px 0;
+  }
+}
