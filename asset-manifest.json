@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/esa_contacts/static/css/main.3f096f6f.chunk.css",
+    "main.js": "/esa_contacts/static/js/main.931be997.chunk.js",
+    "main.js.map": "/esa_contacts/static/js/main.931be997.chunk.js.map",
+    "runtime-main.js": "/esa_contacts/static/js/runtime-main.e6dca755.js",
+    "runtime-main.js.map": "/esa_contacts/static/js/runtime-main.e6dca755.js.map",
+    "static/js/2.e2d36cf6.chunk.js": "/esa_contacts/static/js/2.e2d36cf6.chunk.js",
+    "static/js/2.e2d36cf6.chunk.js.map": "/esa_contacts/static/js/2.e2d36cf6.chunk.js.map",
+    "index.html": "/esa_contacts/index.html",
+    "precache-manifest.07a8f8bb0e51a835d40d4daf156110f3.js": "/esa_contacts/precache-manifest.07a8f8bb0e51a835d40d4daf156110f3.js",
+    "service-worker.js": "/esa_contacts/service-worker.js",
+    "static/css/main.3f096f6f.chunk.css.map": "/esa_contacts/static/css/main.3f096f6f.chunk.css.map",
+    "static/js/2.e2d36cf6.chunk.js.LICENSE.txt": "/esa_contacts/static/js/2.e2d36cf6.chunk.js.LICENSE.txt",
+    "static/media/tick.889e3a1e.svg": "/esa_contacts/static/media/tick.889e3a1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6dca755.js",
+    "static/js/2.e2d36cf6.chunk.js",
+    "static/css/main.3f096f6f.chunk.css",
+    "static/js/main.931be997.chunk.js"
+  ]
+}
